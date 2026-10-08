@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'Geist';
+	font-style: normal;
+	font-weight: 100 900;
+	font-display: optional;
+	src: url('@fontsource-variable/geist/files/geist-latin-wght-normal.woff2') format('woff2');
+}
+
+body {
+	font-family: 'Geist', sans-serif;
+}
